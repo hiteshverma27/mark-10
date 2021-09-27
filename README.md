@@ -1,11 +1,11 @@
 # mark-8
 This is mark 8 for neogcamp 
 
-A TV series recommendation app
+A daily life object emoji interpreter
 
 ## Features
 
-- Choose between 4 different genre
-- Get 3 recommendations for each genre
-- Get to know the description and release date for each of them
+- Choose between few different daily life emojis
+- Get to know the what emoji stands for by clicking the emoji
+- Get to know the description of emoji using search box
 - Made using ReactJS
